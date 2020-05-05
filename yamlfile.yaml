@@ -1,0 +1,11 @@
+---
+esx:
+    XX1:
+        ipaddress: 10.10.10.101
+        hostname: ESXi01
+    XX2:
+        ipaddress: 10.10.10.102
+        hostname: ESXi02
+    XX3:
+        ipaddress: 10.10.10.103
+        hostname: ESXi03

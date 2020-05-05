@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esx>
+  <XX1>
+    <hostname>ESXi01</hostname>
+    <ipaddress>10.10.10.101</ipaddress>
+  </XX1>
+  <XX2>
+    <hostname>ESXi02</hostname>
+    <ipaddress>10.10.10.102</ipaddress>
+  </XX2>
+  <XX3>
+    <hostname>ESXi03</hostname>
+    <ipaddress>10.10.10.103</ipaddress>
+  </XX3>
+</esx>
